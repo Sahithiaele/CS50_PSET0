@@ -1,5 +1,6 @@
 ﻿# CS50_PSET0
  # Ball Bounce Game
+ [https://scratch.mit.edu/projects/950655839](https://scratch.mit.edu/projects/950655839)
 
 This project is a simple game developed for the CS50x course on edX. The game involves a ball bouncing when it touches the paddle. It is created using Scratch, a visual programming language developed by MIT.
 
@@ -27,7 +28,7 @@ The game is a classic ball and paddle interaction:
 
 To play the game, you need to have Scratch installed on your computer. Follow these steps:
 
-1. **Download Scratch**: Visit the [Scratch website](https://scratch.mit.edu/) and download the latest version of Scratch.
+1. [**Download Scratch**: [Visit the [Scratch website](https://scratch.mit.edu/) ](https://scratch.mit.edu/projects/950655839)](and download the latest version of Scratch.
 2. **Open the Project**: Download the Ball Bounce Game project file (`.sb3`) from this repository and open it with Scratch.
 
 Now you're ready to play the game!
